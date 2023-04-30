@@ -9,7 +9,7 @@
 
 ### ***Part I.*** Create a bar chart graph showing the annual Housing Unit numbers across the city and comment on the observed trend for the analysis period and answer the questions included in the Jupyter Notebook.
 ### ***Part II.*** Create a line chart graph showing the yearly average Sales Price per Square foot, and Gross Rent, in a single visualization for the analysis period. Comment on the observed trends and compare them for the sales and the rental markets and answer the questions in the Jupyter Notebook.
-### ***Part III.*** Create a line chart graph showing the yearly average Sales Price per Square foot, and Gross Rent, in a single visualization for the analysis period that can be filtered by neighborhood. Complement the analysis with an interactive neighborhood map that plots the physical location of the interest data points (e.g. higher/lower sales/rent prices). Comment on the trends observed across the sales and rent data sets for specific neighborhoods by answering the questions in the Jupyter Notebook.
+### ***Part III.*** Create a line chart graph showing the yearly average Sales Price per Square foot, and Gross Rent, in a single visualization, with filter by neighborhood enabled, for the analysis period. Complement the analysis with an interactive neighborhood map that plots the physical location of the interest data points (e.g. higher/lower sales/rent prices). Comment on the trends observed across the sales and rent data sets for specific neighborhoods by answering the questions in the Jupyter Notebook.
 ---
 ## **Technologies and Tools**
 
@@ -62,8 +62,8 @@ jupyter lab
 ### 3. Reset the Kernel and
 ### 4. Run the steps in sequence and verify the results as per the comments in the Notebook, including outputs on the screen (e.g. plot images, data frame prints, etc.)
 ---
-## **Credits**
+### **Credits**
 
-### Prepared by Luis Torres 
-### LUTOV001@gmail.com
-### April 2023
+#### Prepared by Luis Torres 
+#### LUTOV001@gmail.com
+#### April 2023
