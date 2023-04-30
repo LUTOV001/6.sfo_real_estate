@@ -59,9 +59,8 @@ pip install geoviews
 jupyter lab
 ```
 ### 2. From the Jupyter Lab terminal, navigate to respositiry folder (e.g. 6.sfo_real_estate) and open the *san_francisco_housing.ipynb* Notebook.
-### 3. Open the SAMPLE.env folder and create your own file with your own API keys. Note that the values are to be entered between quotation marks
-### 4. Reset the Kernel and
-### 5. Run the steps in sequence and verify the results as per the comments in the Notebook, including outputs on the screen (e.g. plot images, data frame prints, etc.)
+### 3. Reset the Kernel and
+### 4. Run the steps in sequence and verify the results as per the comments in the Notebook, including outputs on the screen (e.g. plot images, data frame prints, etc.)
 ---
 ## **Credits**
 
